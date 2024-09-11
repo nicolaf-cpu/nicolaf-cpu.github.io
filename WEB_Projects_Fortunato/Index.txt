@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="it">
+	<head>
+	<meta charset="utf-8"/>
+	<title>Maristella</title>
+	</head>
+		<body> 
+		<img src=”images/firefox.png” alt=”Logo firefox”/>
+		</body>
+</html>
